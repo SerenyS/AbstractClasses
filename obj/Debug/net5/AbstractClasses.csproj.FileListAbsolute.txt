@@ -1,0 +1,16 @@
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\bin\Debug\net5\AbstractClasses.exe
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\bin\Debug\net5\AbstractClasses.deps.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\bin\Debug\net5\AbstractClasses.runtimeconfig.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\bin\Debug\net5\AbstractClasses.runtimeconfig.dev.json
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\bin\Debug\net5\AbstractClasses.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\bin\Debug\net5\ref\AbstractClasses.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\bin\Debug\net5\AbstractClasses.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\AbstractClasses.AssemblyInfo.cs
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\AbstractClasses.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\ref\AbstractClasses.dll
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\AbstractClasses.pdb
+C:\Users\19204\Documents\WCTC\2021\Fall 2021\.NET\AbstractClasses\obj\Debug\net5\AbstractClasses.genruntimeconfig.cache
